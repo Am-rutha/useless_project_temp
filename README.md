@@ -45,7 +45,8 @@ Project Documentation
 For Software:
 
 Screenshots (Add at least 3)
-<img width="1920" height="1080" alt="webcam" src="https://github.com/user-attachments/assets/1d92f153-493b-474a-8123-5a4984b0c739" /> "Step 1: MirrorCheck™ initiates a full reflection scan via webcam — because self-awareness should require a scanner line and a reticle."
+<img width="1920" height="1080" alt="homepage" src="https://github.com/user-attachments/assets/09e4314d-ad3a-42e8-b764-15eea84f6582" />
+" /> "Step 1: MirrorCheck™ initiates a full reflection scan via webcam — because self-awareness should require a scanner line and a reticle."
 
 <img width="1920" height="1080" alt="minigame" src="https://github.com/user-attachments/assets/2a506d64-7da0-4693-8b09-671cebc0f9d0" /> "Step 2: Analysis interrupted! Users must calm down a randomly unqualified NPC (meet Kevin) before the mirror will cooperate."
 
@@ -53,7 +54,9 @@ Screenshots (Add at least 3)
 
 
 Diagrams
+
 <img width="439" height="611" alt="workflow" src="https://github.com/user-attachments/assets/853d9ac9-7b4d-4ea4-b97f-9290e505da55" />
+
 "Workflow: The user's webcam capture kicks off a scripted 'negotiation' with their reflection, which fails during a fake loading sequence. This 'error' triggers a mini-game where the user must click an NPC to keep it calm, unlocking a randomly assigned mirror animal and a fully fabricated diagnostic report — none of it backed by real analysis."
 
 For Hardware:
@@ -79,7 +82,7 @@ Additional Demos
 [Add any extra demo materials/links]
 
 Team Contributions
-Muhammed Yasin:Frontend & UI/UX Design
+Mohammed Yasin:Frontend & UI/UX Design
 Amrutha Manoj:Logic, Interactivity & Backend-less Systems
 
 Made with ❤️ at TinkerHub Useless Projects
