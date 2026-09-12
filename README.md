@@ -12,7 +12,7 @@ Project Description
 MirrorCheck™ is a satirical "AI mirror analysis" web app that takes your webcam photo, pretends to run deep neural analysis on it, and hits you with a joke diagnostic report roasting your love life, aura, and life choices.
 
 
-🔗 Live Demo:
+🔗 Live Demo:https://am-rutha.github.io/useless_project_temp/
 
 The Problem (that doesn't exist)
 Nobody has ever known their exact "Red Flag Percentage," Aura Rating, or Mirror Spirit Animal — an unacceptable gap in self-awareness technology that humanity has somehow survived without.
