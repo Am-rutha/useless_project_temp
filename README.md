@@ -45,14 +45,16 @@ Project Documentation
 For Software:
 
 Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name) Add caption explaining what this shows
+<img width="1920" height="1080" alt="webcam" src="https://github.com/user-attachments/assets/1d92f153-493b-474a-8123-5a4984b0c739" /> "Step 1: MirrorCheck™ initiates a full reflection scan via webcam — because self-awareness should require a scanner line and a reticle."
 
-![Screenshot2](Add screenshot 2 here with proper name) Add caption explaining what this shows
+<img width="1920" height="1080" alt="minigame" src="https://github.com/user-attachments/assets/2a506d64-7da0-4693-8b09-671cebc0f9d0" /> "Step 2: Analysis interrupted! Users must calm down a randomly unqualified NPC (meet Kevin) before the mirror will cooperate."
 
-![Screenshot3](Add screenshot 3 here with proper name) Add caption explaining what this shows
+<img width="1920" height="1020" alt="finalverdict" src="https://github.com/user-attachments/assets/b8b29267-d9f3-4261-ac47-5a807834f83e" /> "Step 3: The final verdict — a fully classified, scientifically baseless report on your Red Flag %, Aura Rating, and Love Life status."
+
 
 Diagrams
-![Workflow](Add your workflow/architecture diagram here) Add caption explaining your workflow
+<img width="439" height="611" alt="workflow" src="https://github.com/user-attachments/assets/853d9ac9-7b4d-4ea4-b97f-9290e505da55" />
+"Workflow: The user's webcam capture kicks off a scripted 'negotiation' with their reflection, which fails during a fake loading sequence. This 'error' triggers a mini-game where the user must click an NPC to keep it calm, unlocking a randomly assigned mirror animal and a fully fabricated diagnostic report — none of it backed by real analysis."
 
 For Hardware:
 
@@ -69,16 +71,17 @@ Build Photos
 ![Final](Add photo of final product here) Explain the final build
 
 Project Demo
-Video
-[Add your demo video link here] Explain what the video demonstrates
+Video  
+https://drive.google.com/file/d/1dIkiS2aPGCVo13AAbAEtyxmmN5iRoSzT/view?usp=drivesdk
+
 
 Additional Demos
 [Add any extra demo materials/links]
 
 Team Contributions
-[Name 1]: [Specific contributions]
-[Name 2]: [Specific contributions]
-[Name 3]: [Specific contributions]
+Muhammed Yasin:Frontend & UI/UX Design
+Amrutha Manoj:Logic, Interactivity & Backend-less Systems
+
 Made with ❤️ at TinkerHub Useless Projects
 
 Static Badge Static Badge
